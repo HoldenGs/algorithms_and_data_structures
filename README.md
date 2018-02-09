@@ -3,4 +3,4 @@
 This is a bunch of data structures and algorithms I've been practicing for interviewing preparation. Hopefully this can help those who one day need to practice these problems.
 
 Data Structures:
-* Trie i.e. prefix tree
+* Trie (i.e. prefix tree)
