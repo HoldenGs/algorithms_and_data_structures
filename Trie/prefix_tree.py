@@ -36,6 +36,7 @@ class Trie:
 				stk.append((node.children, word + c))
 		return ret_list
 
+
 if __name__ == "__main__":
 	prefix_tree = Trie()
 	prefix_tree.insert('hello')
